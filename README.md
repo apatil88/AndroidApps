@@ -9,3 +9,7 @@ Location aware app that demonstrates the use of Android framework location API. 
 
 #Memorable Places
 Location aware app that demonstrates the use of Android framework location API, Google Maps and ListViews to display user's memorable places.
+
+
+#What's The Weather
+App to display weather in a given city. This app uses AsyncTask to query OpenWeather API to obtain and parse weather information returned in JSON format. 
