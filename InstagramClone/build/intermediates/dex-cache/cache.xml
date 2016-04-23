@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Amrut/Softwares/adt-bundle/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_db4c3a56cec2af246a8a10aa7d661e17826bbf2a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_67957dace872329f40e0536b58b175c7ac2f7d6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_afb281f5ee12aed2ad831c39ee99fcf61528f468/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Amrut/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_16b426d15ddf844790102dd3cca35b70da33f7f8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Amrut/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_3815f5e02ac88562bfa93e00170784da71344fe9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.0_98825f267233518098d8f15dd2c928ba92c5d254/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9bf8ee46e43fb53c425f1e6276fe21409345263a">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_76025fb9cc09d4172514d866e8ac6e287fa5da97/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="10713ffedeea16d20d7fe4ce5862ec45e239b379">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_22aa1c29932bf82920f36b5246b940a643c8f8a1/classes.dex" />
+    </item>
+
+</items>
