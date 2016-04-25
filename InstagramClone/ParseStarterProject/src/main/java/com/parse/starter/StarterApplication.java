@@ -25,12 +25,13 @@ public class StarterApplication extends Application {
 
         // Add your initialization code here
         Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
-                .applicationId("") //AppId
+                .applicationId("") //App Id
                 .clientKey("") //Client Key
-                .server("")//Server URL
+                .server("") //Server URL
                 .build()
         );
 
+        //Save Object
         ParseACL defaultACL = new ParseACL();
         // Optionally enable public read access.
         // defaultACL.setPublicReadAccess(true);

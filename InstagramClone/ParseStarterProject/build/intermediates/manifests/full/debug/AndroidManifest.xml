@@ -41,6 +41,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.parse.starter.UserList"
+            android:label="@string/title_activity_user_list"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name="com.parse.starter.UserFeed"
+            android:label="@string/title_activity_user_feed"
+            android:parentActivityName="com.parse.starter.UserList"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.parse.starter.UserList" />
+        </activity>
     </application>
 
 </manifest>

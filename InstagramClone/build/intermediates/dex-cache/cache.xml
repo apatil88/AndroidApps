@@ -2,60 +2,67 @@
 <items version="2" >
 
     <item
-        jar="/Users/Amrut/Softwares/adt-bundle/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_db4c3a56cec2af246a8a10aa7d661e17826bbf2a/classes.dex" />
+        sha1="d538d7f9d807a2241e85c7590df6e31e0667465a">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b3a50f621db90b0b039e5cd1733e05d37f7ebbfa/classes.dex" />
     </item>
     <item
-        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_67957dace872329f40e0536b58b175c7ac2f7d6b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_afb281f5ee12aed2ad831c39ee99fcf61528f468/classes.dex" />
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_b2278cbb31ba04773eb854afc1e2c4eb8b54424a/classes.dex" />
     </item>
     <item
         jar="/Users/Amrut/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_16b426d15ddf844790102dd3cca35b70da33f7f8/classes.dex" />
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_16b426d15ddf844790102dd3cca35b70da33f7f8/classes.dex" />
     </item>
     <item
         jar="/Users/Amrut/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
         jumboMode="true"
         revision="23.0.1"
         sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
-        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_3815f5e02ac88562bfa93e00170784da71344fe9/classes.dex" />
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_3815f5e02ac88562bfa93e00170784da71344fe9/classes.dex" />
     </item>
     <item
-        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jar="/Users/Amrut/Softwares/adt-bundle/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.0_98825f267233518098d8f15dd2c928ba92c5d254/classes.dex" />
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_63ca2d719c5793ff4eb31cef293de465bc0379d7/classes.dex" />
     </item>
     <item
-        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="9bf8ee46e43fb53c425f1e6276fe21409345263a">
-        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_76025fb9cc09d4172514d866e8ac6e287fa5da97/classes.dex" />
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_bd4eaff817c4d961242ff8b578f4c4dc8ed8bb1b/classes.dex" />
     </item>
     <item
-        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="10713ffedeea16d20d7fe4ce5862ec45e239b379">
-        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_22aa1c29932bf82920f36b5246b940a643c8f8a1/classes.dex" />
+        sha1="cb6b6bf97bd92e85441e9386b7c40fada5fcda6a">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9194996d7fe5948101223e1bc0af5a2007172747/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_a2e48972ebbc01e6139d016cd781794a9e82ca08/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_f80abbd39aca2991e1607f666a118e573d99dfde/classes.dex" />
     </item>
 
 </items>

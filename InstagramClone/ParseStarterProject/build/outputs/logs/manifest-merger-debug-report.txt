@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:10:1-40:12
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:10:1-54:12
 	xmlns:android
-		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:10:11-69
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:11:11-69
 	package
-		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:11:5-32
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:10:11-38
 		INJECTED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
@@ -14,17 +14,21 @@ ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClo
 		INJECTED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:13:5-67
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:13:5-66
 	android:name
 		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:13:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:14:5-79
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:14:5-78
 	android:name
 		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:14:22-76
 application
-ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:16:5-38:19
-MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.0] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:16:5-52:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:20:9-41
 	android:allowBackup
@@ -36,13 +40,13 @@ MERGED from [com.android.support:support-v4:22.2.0] /Users/Amrut/Developer/TheCo
 	android:name
 		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:17:9-43
 meta-data#com.parse.APPLICATION_ID
-ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:22:9-24:52
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:22:9-24:51
 	android:name
 		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:23:13-52
 	android:value
 		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:24:13-49
 meta-data#com.parse.CLIENT_KEY
-ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:25:9-27:56
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:25:9-27:55
 	android:name
 		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:26:13-48
 	android:value
@@ -56,17 +60,45 @@ ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClo
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:32:13-36:29
 action#android.intent.action.MAIN
-ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:33:17-69
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:33:17-68
 	android:name
 		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:35:17-77
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:35:17-76
 	android:name
 		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:35:27-74
+activity#com.parse.starter.UserList
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:38:9-42:20
+	android:label
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:40:13-61
+	android:theme
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:39:13-37
+activity#com.parse.starter.UserFeed
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:43:9-51:20
+	android:label
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:45:13-61
+	android:theme
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:47:13-56
+	android:parentActivityName
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:46:13-51
+	android:name
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:44:13-37
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:48:13-50:61
+	android:name
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:49:17-63
+	android:value
+		ADDED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml:50:17-59
 uses-sdk
 INJECTED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.0] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		INJECTED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/AndroidManifest.xml

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/menu/menu_user_list.xml",
+        "source": "/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/res/menu/menu_user_list.xml"
+    },
+    {
         "merged": "/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/menu/menu_main.xml",
         "source": "/Users/Amrut/Developer/TheCompleteAndroidDeveloperCourse/InstagramClone/ParseStarterProject/src/main/res/menu/menu_main.xml"
     }
